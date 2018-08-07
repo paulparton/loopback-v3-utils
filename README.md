@@ -4,6 +4,7 @@ Utility classes with decorators to help reduce boilerplate code and add types to
 
 - Model Api classes
 - Separate Model Api / Remote methods into definition and implimentation classes
+- Clearly define Remote Methods and Operation Hooks with method deorators
 
 ## LoopbackModelApi
 
